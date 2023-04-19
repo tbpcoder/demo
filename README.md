@@ -1,6 +1,6 @@
 # tbpcoder DevOps Project
 
-This is a DevOps project created by tbpcoder to gain hands-on experience.
+This is a DevOps project created by me to gain hands-on experience.
 
 ## Overview
 

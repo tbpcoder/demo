@@ -19,19 +19,19 @@ To get started with this project, you will need to have Docker and Jenkins insta
 
 1. Clone the repository
 
-'''git clone https://github.com/tbpcoder/devops-project.git'''
+`git clone https://github.com/tbpcoder/devops-project.git`
 
 2. Build the Docker image
 
-'''docker build -t my-web-app .'''
+`docker build -t my-web-app .`
 
 3. Run the Docker container
 
-'''docker run -p 3000:3000 my-web-app'''
+`docker run -p 3000:3000 my-web-app`
 
 4. Access the web application
 
-'''http://localhost:3000'''
+`http://localhost:3000`
 
 ## Usage
 
